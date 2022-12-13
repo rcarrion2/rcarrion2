@@ -2,20 +2,10 @@
 
 ### Experience
 
-#### Go Backend Developer at [Ualá](https://github.com/bancar) (current)
-- Go microservices 
-- AWS Lambdas, DynamoDB and Api Gateway
+- Go Backend Developer at [Ualá](https://github.com/bancar) (2021-ongoing)
+- Backend Software Engineer at [MercadoLibre](https://github.com/mercadolibre) (2019-2021)
+- .NET Full stack developer at [Extrados Software Technology](https://github.com/Extrados-AR) (2015-2019)
 
-#### Backend Software Engineer at [MercadoLibre](https://github.com/mercadolibre)
-- Go microservices
-- NodeJS and ReacJS app
-
-#### .NET Full stack developer at [Extrados Software Technology](https://github.com/Extrados-AR)
-- .NET Core web apis
-- .NET Windows Form desktop applications
-- ASP.NET Webforms and ASP.NET MVC web applications
-- MSSQL Server and MySQL databases
-- PHP with Codeigniter 
 
 
 <!--
