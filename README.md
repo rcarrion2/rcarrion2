@@ -2,7 +2,7 @@
 
 ### Experience
 
-#### Go Backend Developer at [Ualá](https://github.com/bancar)
+#### Go Backend Developer at [Ualá](https://github.com/bancar) (current)
 - Go microservices 
 - AWS Lambdas, DynamoDB and Api Gateway
 
