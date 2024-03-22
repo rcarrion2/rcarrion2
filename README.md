@@ -1,24 +1,10 @@
 ### Hi there, I'm Rodrigo (Roy)
 
+This is my work profile.
+My personal GitHub account [royhq](https://github.com/royhq) (not very active).
+
 ### Experience
 
 - Go Backend Developer at [Ualá](https://github.com/bancar) (2021-ongoing)
-- Backend Software Engineer at [MercadoLibre](https://github.com/mercadolibre) (2019-2021)
-- .NET Full stack developer at [Extrados Software Technology](https://github.com/Extrados-AR) (2015-2019)
-
-
-
-<!--
-**rcarrion2/rcarrion2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Software Engineer at [MercadoLibre](https://github.com/mercadolibre) (2019-2021) ❤️
+- .NET Full stack developer at [Extrados Software Technology](https://github.com/Extrados-AR) (2015-2019) 🎉
